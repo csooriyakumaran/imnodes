@@ -526,4 +526,18 @@ _deps
 # External projects
 *-prefix/
 
+# Oakd-specific
+# Directories
+bin/
+bin-int/
+
+ # Files
+Makefile 
+
+# Visual Studio files and folder
+*.sln
+*.vcxproj*
+
+
+
 # End of https://www.toptal.com/developers/gitignore/api/cmake
